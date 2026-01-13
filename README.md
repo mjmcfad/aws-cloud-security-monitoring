@@ -15,6 +15,7 @@ In progress — foundational infrastructure setup
 
 ## Tech Stack
 - AWS (EC2, IAM, CloudTrail)
+    Environment: Ubuntu Server 24.04 LTS on AWS EC2 (Free Tier)
 - Python
 - Pandas, Matplotlib
 - GitHub Actions
