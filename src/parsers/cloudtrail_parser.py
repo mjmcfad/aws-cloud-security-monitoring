@@ -1,9 +1,8 @@
 import json
 import project_root_finder
-from pathlib import Path
 
 project_root = project_root_finder.root
-cloudtrail_log_path = project_root / "sample_cloudtrail.json"
+cloudtrail_log_path = project_root / "data" / "raw" / "sample_cloudtrail.json"
 
 def load_cloudtrail_log(filepath):
     with open(filepath, "r") as f:

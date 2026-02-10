@@ -9,6 +9,8 @@ __pycache__/
 
 # Data
 data/raw/*
+!data/raw/sample_cloudtrail.json
+!data/raw/sample_auth.log
 data/processed/*
 
 # OS
