@@ -7,11 +7,12 @@ __pycache__/
 *.pem
 .env
 
-# Data
+# Data / Figures
 data/raw/*
 !data/raw/sample_cloudtrail.json
 !data/raw/sample_auth.log
 data/processed/*
-
+ssh_activity.png
+cloudtrail_activity.png
 # OS
 .DS_Store
