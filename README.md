@@ -52,7 +52,8 @@ CORRELATION ALERT: {'alert': 'IP seen in both SSH and CloudTrail activity',
 - Top CloudTrail API events (Top 10, horizontal view)  
   
 Examples:  
-
+<img width="1000" height="600" alt="cloudtrail_activity" src="https://github.com/user-attachments/assets/fea9ab4b-d8ca-4d4f-b2ef-015198f2f7eb" />  
+<img width="640" height="480" alt="ssh_activity" src="https://github.com/user-attachments/assets/fee686f8-a52d-4324-bf1f-773e0a52cc9f" />  
 
 ## Tech Stack
 - AWS (EC2, IAM, CloudTrail)  
