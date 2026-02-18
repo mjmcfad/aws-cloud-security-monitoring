@@ -14,5 +14,6 @@ data/raw/*
 data/processed/*
 ssh_activity.png
 cloudtrail_activity.png
+
 # OS
 .DS_Store
