@@ -60,7 +60,7 @@ Examples:
     - Environment: Ubuntu Server 24.04 LTS on AWS EC2 (Free Tier)  
     - IAM: IAM user with MFA (least privilege practices)
 - Python
-- Pandas, Matplotlib
+- Matplotlib
 - GitHub Actions
 
 ## Project Stucture
